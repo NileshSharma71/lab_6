@@ -1,1 +1,1 @@
-# lab_6
+# This is for college purpose
